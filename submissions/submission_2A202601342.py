@@ -1,4 +1,4 @@
-"""Assignment 4 submission for student V2026001."""
+"""Assignment 4 submission by student 2A202601342."""
 
 from harness.tools import check_student_record, lookup_course
 
