@@ -1,6 +1,6 @@
 """ASSIGNMENT 4 — SUBMISSION TEMPLATE
 
-Rename this file to  submission_<MSSV>.py   (e.g. submission_V2026001.py)
+Rename this file to  submission_<MSSV>.py   (e.g. submission_2A202601342.py)
 and submit that ONE file. Nothing else is collected.
 
 You must define exactly four module-level names:

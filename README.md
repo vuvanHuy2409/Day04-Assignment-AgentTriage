@@ -17,7 +17,7 @@ git clone <url-repo-nay>
 cd Day04-Assignment-AgentTriage
 
 # 1. tạo bài nộp của bạn từ template
-cp submission_template.py submissions/submission_V2026001.py   # đổi thành MSSV của bạn
+cp submission_template.py submissions/submission_2A202601342.py   # đổi thành MSSV của bạn
 
 # 2. sửa file đó, rồi chấm thử (miễn phí, không cần API key)
 python3 grade.py submissions/ --set public
